@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    
+
+}
+h1{
+    color: #fff;
+}
+main{
+    background-color: rgba(0, 0, 0, 0.621);
+    width: 100%;
+    height: 80vh;
+}
+
+footer{
+    background-color: blue;
+    width: 100%;
+    height: 5vh;
+}
